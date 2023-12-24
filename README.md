@@ -1,1 +1,1 @@
-This a simple Server request and response in Go language
+This a simple Server request and response project in Go language
